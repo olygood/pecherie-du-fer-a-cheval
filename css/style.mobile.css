@@ -1,0 +1,62 @@
+/*header--------------------------------------------*/
+.header nav h1{
+     float: none;
+     text-align: center;
+
+}
+.header nav ul{
+     float: none;
+
+}
+.header nav ul li{
+     float: none;
+}
+.header nav ul li a{
+     padding: 10px;
+     text-align: center;
+}
+/*vp--------------------------------------*/
+.vp-content{
+  padding-top: 50px;
+  font-size: 0.5rem;
+
+}
+.vp-content h1{
+     font-size: 2rem;
+}
+/*features-----------------------------------*/
+.feature{
+     float: none;
+     width: 100%;
+     margin-bottom: 2rem;
+     
+}
+/*where-----------------------------------------*/
+.where container{
+     padding: 80px 20px 50px 20px;
+     overflow: auto;
+     min-height: 100vh;
+     
+}
+.where img{
+     float: none;
+     margin: auto;
+     width: 100%;
+     margin-bottom: 2rem;
+     display: block;
+}
+.where-text{
+     float: none;
+     width: 100%;
+}
+.where h3  {
+     
+     margin-bottom: 0px;
+}
+
+
+/*conatct-----------------------------------------------*/
+.cotact{
+     padding: 50px 0px 50px 0px;
+     min-height: 100vh;
+}
