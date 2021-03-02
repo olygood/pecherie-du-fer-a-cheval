@@ -142,9 +142,9 @@ a{
 }
 .vp-content h1{
      font-size: 3rem;
-     /*color: rgb(0, 15, 0);*/
-     color:#fff;
-     mix-blend-mode: multiply;
+     color: rgb(0, 15, 0);
+     /*color:#fff;
+     mix-blend-mode: multiply;*/
      
 }
 .vp-content p{
